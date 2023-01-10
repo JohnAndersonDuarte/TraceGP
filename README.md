@@ -36,7 +36,13 @@ Desenvolvido com tecnologia Híbrida (Ionic), e sincronizado acom Aplicação Ja
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- Jboss
+- Banco de dados Oracle
+
 ## Front end
+- JSF
+- Primefaces
+- Extjs
 - HTML / CSS / JS / TypeScript
 - Ajax
 
