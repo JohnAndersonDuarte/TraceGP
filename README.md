@@ -19,16 +19,15 @@ Transações implementadas em JavaEE, com uso de JSF, Primefaces, Servidor de ap
 ![Tela5](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela5.png)
 
 ## Aplicativos desenvolvidos para a empresa
-Trace Tarefas é um aplicativo de gerenciamento de projetos e tarefas, apresenta a lista de tarefas do usuário, com projetos que ele participa, além de uma visão em formato de quadro kanban, tudo sincronizado com o sistema executivo da empresa.
+# Trace Tarefas 
+É um aplicativo de gerenciamento de projetos e tarefas, apresenta a lista de tarefas do usuário, com projetos que ele participa, além de uma visão em formato de quadro kanban, tudo sincronizado com o sistema executivo da empresa.
 
 Desenvolvido com tecnologia Híbrida (Ionic), e sincronizado acom Aplicação JavaEE através de WebServices em formato SOA.
-![App1](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App4.webp)
+![App1](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App4.webp) ![App2](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App5.webp) ![App3](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App6.webp) ![App4](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App7.webp)
 
-Trace Demandas é um aplicativo sincronizado com o sistema executivo web, utilizado para gestão de demandas da empresa, desenvolvido para Android(Java) e IOs(Swift)
-
-
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+# Trace Demanda
+É um aplicativo sincronizado com o sistema executivo web, utilizado para gestão de demandas da empresa, desenvolvido para Android(Java) e IOs(Swift)
+![App5] (https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App1.webp) ![App6] (https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App2.webp) ![App7] (https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App3.webp) 
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
