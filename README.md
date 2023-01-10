@@ -12,8 +12,10 @@ O Trace é uma solução completa para a gestão do trabalho, com ele você pode
 •	Acompanhamento estratégico (BSC);
 •	Painéis e Dashboards.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## Algumas rotinas que implementei no sistema
+![Tela1](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela1.png) ![Tela2](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela2.png) 
+![Tela3](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela3.png) ![Tela4](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela4.png)
+![Tela5](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela5.png)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
