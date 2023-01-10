@@ -1,16 +1,16 @@
 # TraceGP
 Sistema de Governança e Projetos
 
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
-
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://www.trace.com.br/
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+O Trace é uma solução completa para a gestão do trabalho, com ele você poderá gerenciar:
+•	Fluxos de processos de trabalho;
+•	Projetos (tradicionais, ágeis e híbridos);
+•	Esforço (timesheet) e alocação;
+•	Acompanhamento estratégico (BSC);
+•	Painéis e Dashboards.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
