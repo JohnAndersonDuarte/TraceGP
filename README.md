@@ -27,64 +27,16 @@ Desenvolvido com tecnologia Híbrida (Ionic), e sincronizado acom Aplicação Ja
 
 # Trace Demanda
 É um aplicativo sincronizado com o sistema executivo web, utilizado para gestão de demandas da empresa, desenvolvido para Android(Java) e IOs(Swift)
-![App5] (https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App1.webp) ![App6] (https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App2.webp) ![App7] (https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App3.webp) 
+![App5](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App1.webp) ![App6](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App2.webp) ![App7](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App3.webp)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
-- Java
+- Java EE
 - Spring Boot
 - JPA / Hibernate
 - Maven
 ## Front end
 - HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+- Ajax
 
