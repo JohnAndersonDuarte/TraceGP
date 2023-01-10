@@ -22,7 +22,7 @@ Transações implementadas em JavaEE, com uso de JSF, Primefaces, Servidor de ap
 Trace Tarefas é um aplicativo de gerenciamento de projetos e tarefas, apresenta a lista de tarefas do usuário, com projetos que ele participa, além de uma visão em formato de quadro kanban, tudo sincronizado com o sistema executivo da empresa.
 
 Desenvolvido com tecnologia Híbrida (Ionic), e sincronizado acom Aplicação JavaEE através de WebServices em formato SOA.
-![App1](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela4.png)
+![App1](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App4.webp)
 
 Trace Demandas é um aplicativo sincronizado com o sistema executivo web, utilizado para gestão de demandas da empresa, desenvolvido para Android(Java) e IOs(Swift)
 
