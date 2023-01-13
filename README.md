@@ -23,7 +23,7 @@ Transações implementadas em JavaEE, com uso de JSF, Primefaces, Servidor de ap
 É um aplicativo de gerenciamento de projetos e tarefas, apresenta a lista de tarefas do usuário, com projetos que ele participa, além de uma visão em formato de quadro kanban, tudo sincronizado com o sistema executivo da empresa.
 
 Desenvolvido com tecnologia Híbrida (Ionic), e sincronizado acom Aplicação JavaEE através de WebServices em formato SOA.
-![App1](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App4.webp) ![App2](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App5.webp) ![App3](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App6.webp) ![App4](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App7.webp)
+![App1](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/tracetarefas.png)
 
 # Trace Demanda
 É um aplicativo sincronizado com o sistema executivo web, utilizado para gestão de demandas da empresa, desenvolvido para Android(Java) e IOs(Swift)
