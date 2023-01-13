@@ -25,9 +25,22 @@ Transações implementadas em JavaEE, com uso de JSF, Primefaces, Servidor de ap
 Desenvolvido com tecnologia Híbrida (Ionic), e sincronizado acom Aplicação JavaEE através de WebServices em formato SOA.
 ![App1](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/tracetarefas.png)
 
+Aplicativo disponível nas lojas:
+# Android
+https://play.google.com/store/apps/details?id=com.trace.app.tarefas
+
+#  Apple
+https://apps.apple.com/br/app/trace-projetos-e-tarefas/id1624565713
+
 # Trace Demanda
 É um aplicativo sincronizado com o sistema executivo web, utilizado para gestão de demandas da empresa, desenvolvido para Android(Java) e IOs(Swift)
 ![App5](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/tracedemandas.png)
+
+Android
+https://play.google.com/store/apps/details?id=com.tracedemandas
+
+# Apple
+https://apps.apple.com/br/app/trace-demandas/id1349425451
 
 # Tecnologias utilizadas
 ## Back end
