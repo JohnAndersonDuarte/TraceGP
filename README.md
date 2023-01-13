@@ -27,8 +27,7 @@ Desenvolvido com tecnologia Híbrida (Ionic), e sincronizado acom Aplicação Ja
 
 # Trace Demanda
 É um aplicativo sincronizado com o sistema executivo web, utilizado para gestão de demandas da empresa, desenvolvido para Android(Java) e IOs(Swift)
-![App5](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App1.webp) ![App6](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App2.webp) ![App7](https://raw.githubusercontent.com/JohnAndersonDuarte/TraceGP/main/img/App3.webp)
-
+![App5](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/tracedemandas.png)
 
 # Tecnologias utilizadas
 ## Back end
